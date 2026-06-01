@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\code\\dotnet\\third\\third.csproj": {}
+    "C:\\code\\dotnet\\fourth\\fourth.csproj": {}
   },
   "projects": {
-    "c:\\code\\dotnet\\third\\third.csproj": {
+    "C:\\code\\dotnet\\fourth\\fourth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\code\\dotnet\\third\\third.csproj",
-        "projectName": "third",
-        "projectPath": "c:\\code\\dotnet\\third\\third.csproj",
+        "projectUniqueName": "C:\\code\\dotnet\\fourth\\fourth.csproj",
+        "projectName": "fourth",
+        "projectPath": "C:\\code\\dotnet\\fourth\\fourth.csproj",
         "packagesPath": "C:\\Users\\Sandeep R Gupta\\.nuget\\packages\\",
-        "outputPath": "c:\\code\\dotnet\\third\\obj\\",
+        "outputPath": "C:\\code\\dotnet\\fourth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sandeep R Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config"
