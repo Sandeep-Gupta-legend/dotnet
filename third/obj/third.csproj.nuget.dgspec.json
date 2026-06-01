@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\code\\dotnet\\secondApp\\secondApp.csproj": {}
+    "C:\\code\\dotnet\\third\\third.csproj": {}
   },
   "projects": {
-    "c:\\code\\dotnet\\secondApp\\secondApp.csproj": {
+    "C:\\code\\dotnet\\third\\third.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\code\\dotnet\\secondApp\\secondApp.csproj",
-        "projectName": "secondApp",
-        "projectPath": "c:\\code\\dotnet\\secondApp\\secondApp.csproj",
+        "projectUniqueName": "C:\\code\\dotnet\\third\\third.csproj",
+        "projectName": "third",
+        "projectPath": "C:\\code\\dotnet\\third\\third.csproj",
         "packagesPath": "C:\\Users\\Sandeep R Gupta\\.nuget\\packages\\",
-        "outputPath": "c:\\code\\dotnet\\secondApp\\obj\\",
+        "outputPath": "C:\\code\\dotnet\\third\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sandeep R Gupta\\AppData\\Roaming\\NuGet\\NuGet.Config"
