@@ -1,0 +1,15 @@
+C:\code\dotnet\secondApp\obj\Debug\net10.0\secondApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\dotnet\secondApp\obj\Debug\net10.0\secondApp.AssemblyInfoInputs.cache
+C:\code\dotnet\secondApp\obj\Debug\net10.0\secondApp.AssemblyInfo.cs
+C:\code\dotnet\secondApp\obj\Debug\net10.0\secondApp.csproj.CoreCompileInputs.cache
+C:\code\dotnet\secondApp\obj\Debug\net10.0\secondApp.sourcelink.json
+C:\code\dotnet\secondApp\bin\Debug\net10.0\secondApp.exe
+C:\code\dotnet\secondApp\bin\Debug\net10.0\secondApp.deps.json
+C:\code\dotnet\secondApp\bin\Debug\net10.0\secondApp.runtimeconfig.json
+C:\code\dotnet\secondApp\bin\Debug\net10.0\secondApp.dll
+C:\code\dotnet\secondApp\bin\Debug\net10.0\secondApp.pdb
+C:\code\dotnet\secondApp\obj\Debug\net10.0\secondApp.dll
+C:\code\dotnet\secondApp\obj\Debug\net10.0\refint\secondApp.dll
+C:\code\dotnet\secondApp\obj\Debug\net10.0\secondApp.pdb
+C:\code\dotnet\secondApp\obj\Debug\net10.0\secondApp.genruntimeconfig.cache
+C:\code\dotnet\secondApp\obj\Debug\net10.0\ref\secondApp.dll
